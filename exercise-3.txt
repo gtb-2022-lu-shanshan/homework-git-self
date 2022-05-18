@@ -1,3 +1,6 @@
 Spa  Sta  Rep
   add    com
    commit -a
+
+
+New word
