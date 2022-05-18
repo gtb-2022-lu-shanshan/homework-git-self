@@ -1,0 +1,6 @@
+Git status
+Git commit -m
+Git commit -p
+Git add
+Git diff
+
