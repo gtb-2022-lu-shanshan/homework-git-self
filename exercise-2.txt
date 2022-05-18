@@ -1,6 +1,8 @@
 Git status
 Git commit -m
-Git commit -p
+Git commit 
 Git add
 Git diff
-
+Git show
+Git add -p
+Git diff -cached
